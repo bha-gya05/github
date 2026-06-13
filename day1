@@ -1,0 +1,14 @@
+Introduction to GitHub
+
+GitHub is a cloud-based platform used for storing, managing, and sharing source code. 
+It is built on top of Git, a version control system that helps developers track changes in their projects.
+
+Key Features of GitHub:
+Code Repository – Stores project files and source code.
+Version Control – Tracks every change made to the code.
+Collaboration – Multiple developers can work on the same project.
+Branching and Merging – Create separate branches for new features and merge them later.
+Pull Requests – Review and discuss code before merging.
+Issue Tracking – Report bugs and manage tasks.
+Open Source Projects – Contribute to projects from around the world.
+GitHub Actions – Automate testing and deployment.
